@@ -7,7 +7,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background: #007bff;
+    background: #1f3b5a;
 }
 ::selection{
     color: #fff;
@@ -35,7 +35,7 @@ body{
 .start_btn button{
     font-size: 25px;
     font-weight: 500;
-    color: #007bff;
+    color: #1f3b5a;
     padding: 15px 30px;
     outline: none;
     border: none;
