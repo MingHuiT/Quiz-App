@@ -42,6 +42,11 @@ body{
     border-radius: 5px;
     background: #fff;
     cursor: pointer;
+    transition: 0.3s;
+}
+.start_btn button:hover{
+    color: #fff;
+    background: #1f3b5a;
 }
 .info_box{
     width: 540px;
