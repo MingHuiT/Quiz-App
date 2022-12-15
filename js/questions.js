@@ -54,15 +54,4 @@ let questions = [
       "eXamine Multiple Language"
     ]
 },
-    {
-    numb: 6,
-    question: "Which tag is used to create a check box?",
-    answer: '<Input type="checkbox">',
-    options: [
-      "<checkbox>",
-      '<Input type="checkbox">',
-      '<type="checkbox>',
-      "None of the above"
-    ]
-},
 ];
